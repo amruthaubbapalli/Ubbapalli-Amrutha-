@@ -1,0 +1,5 @@
+{
+  "name": "Resume Relevance Analyzer",
+  "description": "An AI-powered tool to analyze resumes against job descriptions, providing a relevance score, gap analysis, and personalized feedback.",
+  "requestFramePermissions": []
+}
